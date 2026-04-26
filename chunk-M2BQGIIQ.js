@@ -1,0 +1,1 @@
+import{A as n,d as t}from"./chunk-WBYP7PK2.js";var r=class e{spinnerSubject=new t(!1);spinner$=this.spinnerSubject.asObservable();show(){this.spinnerSubject.next(!0)}hide(){this.spinnerSubject.next(!1)}static \u0275fac=function(i){return new(i||e)};static \u0275prov=n({token:e,factory:e.\u0275fac,providedIn:"root"})};export{r as a};
