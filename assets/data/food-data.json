@@ -1,0 +1,77 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "A LA CARTE",
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 2,
+      "name": "ADD ONS",
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 3,
+      "name": "BEVERAGES",
+      "image": "assets/images/burger.jpg"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "FRIES LARGE",
+      "price": 1,
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "4 PC CLASSIC GRILLED CHICKEN",
+      "price": 715,
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "name": "2 PC KRISPY CHICKEN",
+      "price": 350,
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "name": "SPICY FRIES LARGE",
+      "price": 240,
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "name": "GARLIC MAYO DIP",
+      "price": 50,
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "name": "EXTRA CHEESE",
+      "price": 80,
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 7,
+      "categoryId": 3,
+      "name": "SOFT DRINK REGULAR",
+      "price": 80,
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": 8,
+      "categoryId": 3,
+      "name": "SOFT DRINK LARGE",
+      "price": 120,
+      "image": "assets/images/burger.jpg"
+    }
+  ]
+}
